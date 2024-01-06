@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ✉️ poque.landon.natacha@plnwebdev.tech
 - 💼 LinkedIn
 - 🌐 Website
+- 🌱 I’m currently learning ...
 ## Profil
 Développeuse web passionnée avec une solide expertise acquise grâce à une formation de développeur intégrateur web chez OpenClassrooms, d'un BTS en automatisme et d'une expérience de 15 en maintenance industrielle et en pyrométrie.
 
